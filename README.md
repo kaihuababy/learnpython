@@ -1,0 +1,1 @@
+This is a road about how I learn python. Now is May 27th 2020.
